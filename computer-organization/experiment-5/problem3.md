@@ -6,7 +6,7 @@
 
 ## Answer
 
-![problem3](img/problem3.png)
+![circuit3](img/circuit3.png)
 
 위 ripple counter의 동작은 다음과 같다.
 
@@ -20,4 +20,4 @@
 
 요약하자면 input이 0일 때 이 회로의 출력값은 계속 유지되고, input이 1이면 다음 그림과 같이 사이클을 돌게 된다.
 
-![problem3_2](img/problem3_2.png)
+![timing](img/timing.png)

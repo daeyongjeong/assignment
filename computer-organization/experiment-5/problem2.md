@@ -6,7 +6,7 @@
 
 ## Answer
 
-![problem2](img/problem2.png)
+![circuit2](img/circuit2.png)
 
 74155의 출력 값이 반전되어 나온다는 점에 주목해서, 0인 값들을 모아 AND로 묶어 해당 위치로 보내주도록 회로를 만들었다.
 

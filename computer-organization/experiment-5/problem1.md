@@ -10,21 +10,21 @@
 
 ### 1.
 
-![problem1_1](img/problem1_1.png)
+![circuit1_1](img/circuit1_1.png)
 
 ### 2.
 
-![problem1_2](img/problem1_2.png)
+![circuit1_2](img/circuit1_2.png)
 
 ### 3.
 
-![problem1_3](img/problem1_3.png)
+![circuit1_3](img/circuit1_3.png)
 
 ### 4.
 
 ![multiplexer](img/multiplexer.png)
-![problem1_4](img/problem1_4.png)
+![multiplexer_internal](img/multiplexer_internal.png)
 
 ### 5.
 
-![problem1_5](img/problem1_5.png)
+![circuit1_5](img/circuit1_5.png)
